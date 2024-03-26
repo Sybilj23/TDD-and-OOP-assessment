@@ -3,7 +3,7 @@ const { expect } = require("chai");
 const Customer = require("../class/customer.js");
 const PremiumCustomer = require("../class/premium-customer.js");
 const Store = require("../class/store.js");
-const StoreItem = require("../class/store-item.js");
+const StoreItem = require("../class/storeItem.js");
 
 describe("Customer", function () {
 
