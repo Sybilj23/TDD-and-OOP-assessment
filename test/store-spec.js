@@ -268,3 +268,4 @@ describe("Completing a Purchase", function () {
     expect(premiumCustomer.purchases).to.deep.equal(["Chair", "Mug", "Table"]);
   });
 });
+//test
